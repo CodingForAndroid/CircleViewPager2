@@ -1,0 +1,3 @@
+include ':circlelibrary'
+include ':app'
+rootProject.name = "CircleViewPager2"
